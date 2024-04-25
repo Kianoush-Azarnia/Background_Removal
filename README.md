@@ -1,9 +1,5 @@
 # Background Removal
 
-## April 2024
-
-## Introduction
-
 ## OVERVIEW
 
 Inthisproject,wewanttodevelopanAIserviceintermsofimagebackgroundremoval.Thereis
